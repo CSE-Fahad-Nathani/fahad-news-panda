@@ -1,0 +1,52 @@
+.NewsBody{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.bodyHeading{
+    margin-top: 20px;
+}
+
+.body1{
+    width: 90%;
+    min-height: 300px;
+    margin-top: 20px;
+    padding: 20px;
+    height: auto;
+    background-color: #e3f2fd;
+    border-radius: 30px;
+    box-shadow: 10px black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    transition: 1s ease-in-out;
+}
+
+.bodyBtns{
+    margin-top: 30px;
+}
+
+.bodyBtns button{
+    margin: 5px 20px 30px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

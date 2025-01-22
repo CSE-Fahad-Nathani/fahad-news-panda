@@ -1,0 +1,29 @@
+https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+
+https://newsapi.org/v2/everything?q=technology&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+
+1. Technology News:
+g. https://newsapi.org/v2/everything?q=technology&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+i. https://newsapi.org/v2/everything?q=technology&country=in&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+
+2. Climate Change:
+g. https://newsapi.org/v2/everything?q=climate&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+i. https://newsapi.org/v2/everything?q=climate&country=in&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+
+3. Sports News
+g. https://newsapi.org/v2/everything?q=sports&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+i. 
+
+4. Health News:
+g. https://newsapi.org/v2/everything?q=health&language=en&sortBy=publishedAt&apiKey=d8a5af0e801043bc8a880bda4b6f75fb
+i. 
+
+
+
+
+
+
+
+
+
+
